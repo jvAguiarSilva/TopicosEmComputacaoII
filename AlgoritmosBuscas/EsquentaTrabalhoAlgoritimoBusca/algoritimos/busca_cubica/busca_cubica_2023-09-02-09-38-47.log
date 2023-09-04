@@ -1,0 +1,15 @@
+# N = 100:
+Function busca_cubica(70)
+Time spent: 0.05364220000046771 seconds
+Memory used: 208 bytes
+
+# N = 200:
+Function busca_cubica(70)
+Time spent: 0.34266520000528544 seconds
+Memory used: 144 bytes
+
+# N = 1000:
+Function busca_cubica(70)
+Time spent: 663.1564822 seconds
+Memory used: 316 bytes
+

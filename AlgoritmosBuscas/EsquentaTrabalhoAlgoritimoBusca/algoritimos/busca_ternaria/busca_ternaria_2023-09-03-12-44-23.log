@@ -1,0 +1,65 @@
+# N = 100:
+Function busca_ternaria(70)
+Time spent: 1.030000566970557e-05 seconds
+Memory used: 64 bytes
+
+# N = 200:
+Function busca_ternaria(70)
+Time spent: 4.2000028770416975e-06 seconds
+Memory used: 0 bytes
+
+# N = 1000:
+Function busca_ternaria(70)
+Time spent: 1.5400000847876072e-05 seconds
+Memory used: 156 bytes
+
+# N = 2000:
+Function busca_ternaria(70)
+Time spent: 1.6999998479150236e-05 seconds
+Memory used: 156 bytes
+
+# N = 5000:
+Function busca_ternaria(70)
+Time spent: 3.670000296551734e-05 seconds
+Memory used: 188 bytes
+
+# N = 10000:
+Function busca_ternaria(70)
+Time spent: 3.989999822806567e-05 seconds
+Memory used: 188 bytes
+
+# N = 50000:
+Function busca_ternaria(77)
+Time spent: 4.719999560620636e-05 seconds
+Memory used: 188 bytes
+
+# N = 100000:
+Function busca_ternaria(70)
+Time spent: 5.4899996030144393e-05 seconds
+Memory used: 188 bytes
+
+# N = 500000:
+Function busca_ternaria(71)
+Time spent: 5.869999586138874e-05 seconds
+Memory used: 188 bytes
+
+# N = 1000000:
+Function busca_ternaria(70)
+Time spent: 6.350000330712646e-05 seconds
+Memory used: 188 bytes
+
+# N = 5000000:
+Function busca_ternaria(70)
+Time spent: 7.349999214056879e-05 seconds
+Memory used: 188 bytes
+
+# N = 10000000:
+Function busca_ternaria(71)
+Time spent: 7.429999823216349e-05 seconds
+Memory used: 188 bytes
+
+# N = 100000000:
+Function busca_ternaria(70)
+Time spent: 8.360001083929092e-05 seconds
+Memory used: 188 bytes
+

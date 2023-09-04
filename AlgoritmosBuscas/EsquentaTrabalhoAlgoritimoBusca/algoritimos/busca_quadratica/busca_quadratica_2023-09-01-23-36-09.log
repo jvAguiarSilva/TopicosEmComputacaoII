@@ -1,0 +1,40 @@
+# N = 100:
+Function busca_quadratica(70)
+Time spent: 432100 nanoseconds
+Memory used: 208 bytes
+
+# N = 200:
+Function busca_quadratica(70)
+Time spent: 1081700 nanoseconds
+Memory used: 144 bytes
+
+# N = 1000:
+Function busca_quadratica(70)
+Time spent: 353784800 nanoseconds
+Memory used: 284 bytes
+
+# N = 2000:
+Function busca_quadratica(70)
+Time spent: 1651474200 nanoseconds
+Memory used: 284 bytes
+
+# N = 5000:
+Function busca_quadratica(70)
+Time spent: 9585991600 nanoseconds
+Memory used: 284 bytes
+
+# N = 10000:
+Function busca_quadratica(70)
+Time spent: 38227505000 nanoseconds
+Memory used: 284 bytes
+
+# N = 50000:
+Function busca_quadratica(77)
+Time spent: 938509268800 nanoseconds
+Memory used: 284 bytes
+
+# N = 100000:
+Function busca_quadratica(70)
+Time spent: 3765410517000 nanoseconds
+Memory used: 284 bytes
+

@@ -1,0 +1,4 @@
+pip install memory-profiler
+pip install psutil
+
+-- https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler

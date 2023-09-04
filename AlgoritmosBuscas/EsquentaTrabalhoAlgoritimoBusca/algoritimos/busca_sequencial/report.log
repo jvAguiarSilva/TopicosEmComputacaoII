@@ -1,0 +1,130 @@
+# N = 100:
+Function busca_sequencial_v1(70)
+Time spent: 20300 nanoseconds
+Memory used: 176 bytes
+
+# N = 100:
+Function busca_sequencial_v2(70)
+Time spent: 10700 nanoseconds
+Memory used: 112 bytes
+
+# N = 200:
+Function busca_sequencial_v1(70)
+Time spent: 12000 nanoseconds
+Memory used: 112 bytes
+
+# N = 200:
+Function busca_sequencial_v2(70)
+Time spent: 8100 nanoseconds
+Memory used: 112 bytes
+
+# N = 1000:
+Function busca_sequencial_v1(70)
+Time spent: 408800 nanoseconds
+Memory used: 188 bytes
+
+# N = 1000:
+Function busca_sequencial_v2(70)
+Time spent: 9500 nanoseconds
+Memory used: 188 bytes
+
+# N = 2000:
+Function busca_sequencial_v1(70)
+Time spent: 1489800 nanoseconds
+Memory used: 188 bytes
+
+# N = 2000:
+Function busca_sequencial_v2(70)
+Time spent: 20100 nanoseconds
+Memory used: 188 bytes
+
+# N = 5000:
+Function busca_sequencial_v1(70)
+Time spent: 3464900 nanoseconds
+Memory used: 188 bytes
+
+# N = 5000:
+Function busca_sequencial_v2(70)
+Time spent: 16800 nanoseconds
+Memory used: 188 bytes
+
+# N = 10000:
+Function busca_sequencial_v1(70)
+Time spent: 5116300 nanoseconds
+Memory used: 188 bytes
+
+# N = 10000:
+Function busca_sequencial_v2(70)
+Time spent: 14200 nanoseconds
+Memory used: 188 bytes
+
+# N = 50000:
+Function busca_sequencial_v1(77)
+Time spent: 29057800 nanoseconds
+Memory used: 188 bytes
+
+# N = 50000:
+Function busca_sequencial_v2(77)
+Time spent: 15300 nanoseconds
+Memory used: 188 bytes
+
+# N = 100000:
+Function busca_sequencial_v1(70)
+Time spent: 53667400 nanoseconds
+Memory used: 188 bytes
+
+# N = 100000:
+Function busca_sequencial_v2(70)
+Time spent: 16100 nanoseconds
+Memory used: 188 bytes
+
+# N = 500000:
+Function busca_sequencial_v1(71)
+Time spent: 260720000 nanoseconds
+Memory used: 188 bytes
+
+# N = 500000:
+Function busca_sequencial_v2(71)
+Time spent: 15900 nanoseconds
+Memory used: 188 bytes
+
+# N = 1000000:
+Function busca_sequencial_v1(70)
+Time spent: 735215400 nanoseconds
+Memory used: 188 bytes
+
+# N = 1000000:
+Function busca_sequencial_v2(70)
+Time spent: 20800 nanoseconds
+Memory used: 188 bytes
+
+# N = 5000000:
+Function busca_sequencial_v1(70)
+Time spent: 3121597300 nanoseconds
+Memory used: 188 bytes
+
+# N = 5000000:
+Function busca_sequencial_v2(70)
+Time spent: 17700 nanoseconds
+Memory used: 188 bytes
+
+# N = 10000000:
+Function busca_sequencial_v1(71)
+Time spent: 5553537900 nanoseconds
+Memory used: 188 bytes
+
+# N = 10000000:
+Function busca_sequencial_v2(71)
+Time spent: 66600 nanoseconds
+Memory used: 188 bytes
+
+# N = 100000000:
+Function busca_sequencial_v1(70)
+Time spent: 54775155900 nanoseconds
+Memory used: 188 bytes
+
+# N = 100000000:
+Function busca_sequencial_v2(70)
+Time spent: 36200 nanoseconds
+Memory used: 188 bytes
+

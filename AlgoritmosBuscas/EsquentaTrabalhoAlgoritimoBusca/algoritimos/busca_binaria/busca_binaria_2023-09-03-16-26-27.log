@@ -1,0 +1,65 @@
+# N = 100:
+Function busca_binaria_main(70)
+Time spent: 1.1900003300979733e-05 seconds
+Memory used: 64 bytes
+
+# N = 200:
+Function busca_binaria_main(70)
+Time spent: 7.700000423938036e-06 seconds
+Memory used: 0 bytes
+
+# N = 1000:
+Function busca_binaria_main(70)
+Time spent: 1.069999416358769e-05 seconds
+Memory used: 96 bytes
+
+# N = 2000:
+Function busca_binaria_main(70)
+Time spent: 1.2199991033412516e-05 seconds
+Memory used: 160 bytes
+
+# N = 5000:
+Function busca_binaria_main(70)
+Time spent: 4.710000939667225e-05 seconds
+Memory used: 288 bytes
+
+# N = 10000:
+Function busca_binaria_main(70)
+Time spent: 5.77000027988106e-05 seconds
+Memory used: 352 bytes
+
+# N = 50000:
+Function busca_binaria_main(77)
+Time spent: 4.980000085197389e-05 seconds
+Memory used: 480 bytes
+
+# N = 100000:
+Function busca_binaria_main(70)
+Time spent: 0.00010689999908208847 seconds
+Memory used: 544 bytes
+
+# N = 500000:
+Function busca_binaria_main(71)
+Time spent: 7.809999806340784e-05 seconds
+Memory used: 672 bytes
+
+# N = 1000000:
+Function busca_binaria_main(70)
+Time spent: 7.069999992381781e-05 seconds
+Memory used: 736 bytes
+
+# N = 5000000:
+Function busca_binaria_main(70)
+Time spent: 0.00014670001110062003 seconds
+Memory used: 928 bytes
+
+# N = 10000000:
+Function busca_binaria_main(71)
+Time spent: 9.049999061971903e-05 seconds
+Memory used: 992 bytes
+
+# N = 100000000:
+Function busca_binaria_main(70)
+Time spent: 0.00017109999316744506 seconds
+Memory used: 1184 bytes
+
